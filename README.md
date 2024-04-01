@@ -8,7 +8,7 @@ Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence
 
 **Data Analysis:** Utilized DAX (Data Analysis Expressions) for complex calculations and data analysis within Power BI.
 
-**Data Visualization:** Designed *interactive data visualizations* for insightful reporting and decision-making.
+**Data Visualization:** Designed interactive data visualizations for insightful reporting and decision-making.
 
 # Key Features
 
