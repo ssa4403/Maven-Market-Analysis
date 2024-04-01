@@ -6,6 +6,11 @@ Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence
 
 **1. KPI Tracking:** Monitor crucial metrics like total transactions, profits, and returns, with goals and current status visually compared for immediate analysis.
 
+            Total Transactions: Track the number of sales transactions, providing insights into sales volume.
+            Total Profit: Monitor profit generated, essential for evaluating financial health.
+            Profit Margin: Understand the profitability of products to focus on the most beneficial offerings.
+            Return Rate: Analyze the rate of returned products, a critical factor for product quality and customer satisfaction. 
+
 **2. Product Performance:** Analyze product lines with detailed metrics such as total sales, total profit, profit margin, and return rate.
 
 **3. Geographic Sales Data:** Get a clear visual of market penetration with an interactive map detailing sales distribution across North America.
