@@ -15,6 +15,8 @@ Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence
 
 **3. Geographic Sales Data:** Get a clear visual of market penetration with an interactive map detailing sales distribution across North America.
 
+            Sales Distribution Map: Visualize sales distribution across North America, with the ability to drill down by country, providing a clear picture of regional market performance.
+
 **4. Time Series Analysis:** Understand weekly revenue trends to identify seasonal patterns or the impact of specific campaigns.
 
 **5. Revenue Targets:** Evaluate performance against targets with visual indicators to instantly recognize over or underachievement.
