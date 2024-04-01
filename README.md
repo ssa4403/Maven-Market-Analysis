@@ -21,6 +21,8 @@ Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence
 
 **5. Revenue Targets:** Evaluate performance against targets with visual indicators to instantly recognize over or underachievement.
 
+            Revenue vs Target: Set financial targets and track ongoing performance against these goals, a key metric for growth and performance assessment.
+
 # Performance Notes Section
 
 To assist with month-end analysis and strategic planning, the dashboard includes a 'Performance Notes' section, capturing key observations such as:
@@ -31,5 +33,10 @@ To assist with month-end analysis and strategic planning, the dashboard includes
 
 **3. Profit Margin Leaders:** Highlighting products like Plato that have driven strong profit margins.
 
+# Usage
+Designed for business analysts, sales managers, and data enthusiasts, this dashboard provides a user-friendly interface with customizable options to cater to specific analysis needs.
+
 The Maven Market Analysis Dashboard is a versatile tool designed for flexibility and depth. Users can slice and dice the data to uncover underlying trends, validate business strategies, and predict future performance.
 
+# Feedback and Collaboration
+Feedback is essential for continuous improvement. Please submit your feedback through GitHub issues or pull requests. Let's collaborate to refine and enhance the analytical capabilities of this dashboard.
