@@ -18,11 +18,11 @@ Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence
 
 To assist with month-end analysis and strategic planning, the dashboard includes a 'Performance Notes' section, capturing key observations such as:
 
-**Sales Milestones:** Notable achievements like Portland reaching 1,000 sales in a month.
+**1. Sales Milestones:** Notable achievements like Portland reaching 1,000 sales in a month.
 
-**Product Returns:** Changes in return rates, for example, the doubling of High Top product returns in Mexico.
+**2. Product Returns:** Changes in return rates, for example, the doubling of High Top product returns in Mexico.
 
-**Profit Margin Leaders:** Highlighting products like Plato that have driven strong profit margins.
+**3. Profit Margin Leaders:** Highlighting products like Plato that have driven strong profit margins.
 
 The Maven Market Analysis Dashboard is a versatile tool designed for flexibility and depth. Users can slice and dice the data to uncover underlying trends, validate business strategies, and predict future performance.
 
